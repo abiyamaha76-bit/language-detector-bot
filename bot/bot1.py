@@ -22,7 +22,7 @@ from telegram.ext import (
 )
 #abiyamaha76-bit
 
-TOKEN = "8288045739:AAGt35sPQeDnzehQIUuoxKXEkAmImEtJyGA"
+TOKEN = ""
 
 main_keyboard = ReplyKeyboardMarkup(
     [
