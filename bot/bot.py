@@ -15,7 +15,7 @@ from diller import langs
 from bot.models import DetectionLog, FindLog
 
 
-TOKEN = "8288045739:AAGt35sPQeDnzehQIUuoxKXEkAmImEtJyGA"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 
 st_text = (
