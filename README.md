@@ -40,7 +40,7 @@ Terminal 1 — Django server:
    python manage.py runserver
 
 Terminal 2 — Telegram bot:
-   python bot/bot.py
+   python bot/bot1.py
 
 ## Bot Commands
 
