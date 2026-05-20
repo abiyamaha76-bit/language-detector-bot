@@ -76,20 +76,3 @@ Bot replies: "❌ Klingon is not in our list"
 
 ### Django Admin Panel
 ![Admin](screenshots/admin.png)
-
-## Project Structure
-
-myproject/
-├── manage.py
-├── requirements.txt
-├── README.md
-├── screenshots/
-├── myproject/
-│   ├── settings.py
-│   ├── urls.py
-│   └── wsgi.py
-└── bot/
-    ├── bot.py
-    ├── models.py
-    ├── admin.py
-    └── apps.py
